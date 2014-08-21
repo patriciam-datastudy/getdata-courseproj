@@ -1,10 +1,10 @@
- Code Book for run_analysis.R
+Code Book for run_analysis.R
 ========================================================
 
-Subject
+*Subject*
 Number code for the subject that performed the activity. Range is 1 to 30.
 
-Activity
+*Activity*
 Six activities were performed for this experiment. They are:
 - Walking
 - Walking Upstairs
@@ -13,8 +13,8 @@ Six activities were performed for this experiment. They are:
 - Standing
 - Laying
 
-variable
+*variable*
 66 different measurement points that are either mean or standard dev measurements from the different sensors
 
-Average
+*Average*
 Average of each variable for each subject and activity
